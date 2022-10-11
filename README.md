@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-# Stats 🔍
-
 <br>
 
 <div align="center">
@@ -11,5 +9,3 @@
  </div>
 
  <br>
-
-# STACKS 🛠️
