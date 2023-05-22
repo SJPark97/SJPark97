@@ -22,8 +22,8 @@
   </div>
   
   <div key="1">
-    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=temp width="280" height="140" alt="baekjoon" />
-    <img src=http://mazandi.herokuapp.com/api?handle=temp&theme=dark width="285" height="140" alt="solved" />
+    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=tjwlsdud33 width="280" height="140" alt="baekjoon" />
+    <img src=http://mazandi.herokuapp.com/api?handle=tjwlsdud33&theme=dark width="285" height="140" alt="solved" />
   </div>
   
   <div key="4">
