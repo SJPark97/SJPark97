@@ -4,22 +4,22 @@
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
-  <div key="6">
-    <a href = "https://oreuda.kr/">
+  <!-- <div key="6"> -->
+    <!-- <a href = "https://oreuda.kr/">
       <img
         src=https://oreuda.kr/api/v1/plant/card?nickname=SJPark97
         alt="oreuda"
       />
     </a>
-  </div>
+  </div>  -->
   
-  <div key="2">
+  <!-- <div key="2">
     <img src=https://github-readme-stats.vercel.app/api?username=SJPark97&show_icons=true&theme=radical width="350" height="150" alt="githubStats" />
-  </div>
+  </div> 
   
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SJPark97&layout=compact&theme=merko width="280" height=180 alt="MUL" />
-  </div>
+  </div> -->
   
   <div key="1">
     <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=tjwlsdud33 width="280" height="140" alt="baekjoon" />
@@ -116,7 +116,7 @@
             />
           </a>
       <span></span>
-      <a href=https://chemical-death-7f2.notion.site/200ee28d3c5d42f8b3e34a128c551735 target="_blank">
+      <a href=https://familiar-butternut-c15.notion.site/1b4dee7cb4ee8050b4f2fe18f5a3d267 target="_blank">
             <img src=https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://chemical-death-7f2.notion.site/200ee28d3c5d42f8b3e34a128c551735/ alt="notion" />
           </a>
     </div>
